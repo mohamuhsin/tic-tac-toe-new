@@ -12,7 +12,9 @@ export default function Player({ initialName, symbol }) {
     }
 
     function handleEditClick() {
-        setIsEditing(true);
+        //setIsEditing(!isEditing);-- avoid this!!!
+        setIsEditing((editing) => !editing);
+
     }
 
     return (
