@@ -7,4 +7,4 @@
 
 4. Lifting State Up
 
-5. Avoiding Intersecting Stat
+5. Avoiding Intersecting States
