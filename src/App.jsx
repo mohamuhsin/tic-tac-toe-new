@@ -49,7 +49,7 @@ function App() {
           />
           <Player
             initialName="Player 2"
-            symbol="0"
+            symbol="O"
             isActive={activePlayer === "O"}
           />
         </ol>
