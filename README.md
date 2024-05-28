@@ -3,8 +3,10 @@
 
 2. Using function form to update a state that is based on the previous state: setIsEditing(editing => !editing) is the best way to do it because states are updated quickly without delay rather than setIsEditing(!isEditing).
 
-3. Two way binding 
+3. Two way binding
+   
+4. THE CONCEPT OF IMMUTABILITY (Updating objects state immutably)
 
-4. Lifting State Up
+6. Lifting State Up
 
-5. Avoiding Intersecting States
+7. Avoiding Intersecting States
