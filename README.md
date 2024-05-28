@@ -10,3 +10,5 @@
 6. Lifting State Up
 
 7. Avoiding Intersecting States
+
+8. Reducing state management by deriving states from available state and also by using helper functions.
